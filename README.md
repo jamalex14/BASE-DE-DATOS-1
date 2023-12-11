@@ -1,5 +1,6 @@
 <h1 align="center">  BASE DE DATOS I 👨🏽‍💻​ ​</h1>
-<h3 align="center">Foros || Trabajos || Proyectos ||  </h3>
+<h3 align="center">Foros || Trabajos || Proyectos   </h3>
+<h3 align="center">Jamil Alex Quispe Valencia - 2023   </h3>
 
 ##  👨‍💼 HITO 1 💻
 
@@ -41,7 +42,7 @@
 ## 🗂️​ HITO 3 🗂️​
 
 **Repositorio Completo del Hito 3**
-<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%203"> **(☞ﾟヮﾟ)☞ REPOSITORIO COMPLETO DEL HITO 3 🗂️​**  </A>
+<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%203"> **REPOSITORIO COMPLETO DEL HITO 3 🗂️​**  </A>
 
 ## ​💻​​ ACTIVIDADES DEL HITO 3
 
@@ -67,21 +68,21 @@
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%204/TAREA%20H4.pdf"> DEFENSA H3 - DOCUMENTO  [PDF] 💻 </A>**
 <p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%204/TAREA%20H4.pptx"> DEFENSA H3 - DOCUMENTO  [POWERPOINT] 👨‍💻 ​ **</A>
 
-**<A href="[https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_4/Laboratorios/LABORATORIO_3](https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%204/Video%20(1).txt)"> DEFENSA H3 - VIDEO 💻📙​🎬 🎞️​ ​ **</A>
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%204/Video%20(1).txt"> DEFENSA H3 - VIDEO 💻📙​🎬 🎞️​ ​ **</A>
 
 
 ## 
 <p align="center">
-    <img img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
+    <img img src="https://imgs.search.brave.com/SS74EvdWVeUy1EOrhYNKZCWkQfaBhn47fKMtZAbNHmY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tLzEvdHlwZS1h/d2F5LW51bWVyby1k/b3MuanBnP2F1dG89/Zm9ybWF0JmZpdD1j/cm9wJnE9ODAmdz0x/MDAwJml4bGliPXJi/LTQuMC4zJml4aWQ9/TTN3eE1qQTNmREI4/TUh4elpXRnlZMmg4/TVRWOGZHMWhiaVV5/TUhkdmNtdHBibWNs/TWpCdmJpVXlNR052/YlhCMWRHVnlmR1Z1/ZkRCOGZEQjhmSHd3" width="450">
 	
 </p>
 
 
-## 💻 Author (▀-▀)
+## 💻 Realizado por (▀-▀)
 
-**Edson Condori**
-- Github: [@edssonivver](https://github.com/edssonivver)
+**J. Alex Q. Valencia**
+- Github: [@jamalex14](https://github.com/jamalex14).
 
 ## 📝 License
 
-Copyright © 2022 [Edson Condori](https://github.com/edssonivver).
+Copyright © 2023 [@jamalex14](https://github.com/jamalex14).
