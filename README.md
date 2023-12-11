@@ -5,20 +5,20 @@
 
 **Repositorio Completo del Hito 1**
 
-<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%201"> **(☞ﾟヮﾟ)☞ REPOSITORIOS DEL HITO 1**  </A>
+<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%201"> **ACTIVIDADES DEL HITO 1**  </A>
 
 
-## 🚀 APARTADOS DEL REPOSITORIO DEL HITO 1
+## 👨‍💻 APARTADOS DE LAS ACTIVIDADES DEL HITO 1
 
-***En este apartado se encuentran los trabajos del Hito 1 por separado.***
+***Aqui podemos encontrar las actividades del Hito 1 por separado.***
 
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/blob/main/hito_1/HOLA_MUNDO2.txt"> Trabajo 1 ☞ Hola Mundo </A>**
-<p> **<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/blob/main/hito_1/QUE_ES_UNA_BASE_DE_DATOS.docx"> Trabajo 2 ☞ Que es una Base de Datos   (Archivo RAR) 📚​</A>**
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%201/HITO%201.txt"> Actividad 1 ☞ Texto Hito 1 </A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%201/QUE_ES_UNA_BASE_DE_DATOS.docx"> Actividad 2 ☞ Que es una Base de Datos  📊​</A>**
 </p>
 
 
-## (っ•́｡•́)っ📚  HITO 2 📚
+## 📊  HITO 2 📚
 
 **Repositorio Completo del Hito 2**
 <A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2"> 
