@@ -83,7 +83,8 @@
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/FINAL%20H5.pdf"> DEFENSA H5 - DOCUMENTO  [PDF] 💻 </A>**
 <p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/FINAL%20H5.pptx"> DEFENSA H5 - DOCUMENTO  [POWERPOINT] 👨‍💻 ​ **</A>
 
-
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/DER-Agencia_de_Muebles.drawio"> DER-Agencia_de_Muebles.drawio 💻 </A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/Modelado_de_clases.drawio"> Modelado_de_clases.drawio 👨‍💻 ​ **</A>
 
 ## 
 <p align="center">
@@ -92,7 +93,7 @@
 </p>
 
 
-## 💻 Realizado por (▀-▀)
+## 💻 Realizado por (Jam ALEX)
 
 **Jamil Alex Quispe Valencia**
 - Github: [@jamalex14](https://github.com/jamalex14).
