@@ -73,7 +73,7 @@
 
 ## 
 <p align="center">
-    <img img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7036618-macho-trabajando-en-portatil-con-gato-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-icono-concepto-aislado-premium-vector-plano-estilo-de-dibujos-animados&psig=AOvVaw0p0QYBmi1amge0o78SnYe6&ust=1702411935615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj2_e6YiIMDFQAAAAAdAAAAABAR" width="450">
+    <img img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
 	
 </p>
 
