@@ -1,14 +1,14 @@
-<h1 align="center">  BASE DE DATOS I 👨🏽‍💻​ 🤖​</h1>
-<h3 align="center">Foros || Trabajos || Proyectos || Laboratorios </h3>
+<h1 align="center">  BASE DE DATOS I 👨🏽‍💻​ ​</h1>
+<h3 align="center">Foros || Trabajos || Proyectos ||  </h3>
 
-##  HITO 1 💻
+##  👨‍💼 HITO 1 💻
 
 **Repositorio Completo del Hito 1**
 
 <A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%201"> **ACTIVIDADES DEL HITO 1**  </A>
 
 
-## 👨‍💻 APARTADOS DE LAS ACTIVIDADES DEL HITO 1
+## 👨‍💻 ACTIVIDADES DEL HITO 1
 
 ***Aqui podemos encontrar las actividades del Hito 1 por separado.***
 
@@ -21,49 +21,47 @@
 ## 📊  HITO 2 📚
 
 **Repositorio Completo del Hito 2**
-<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2"> 
-**(☞ﾟヮﾟ)☞ REPOSITORIO COMPLETO DEL HITO 2**  </A>
+<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%202"> 
+** REPOSITORIO COMPLETO DEL HITO 2**  </A>
 
-## ​🖥️​ APARTADOS DEL REPOSITORIO DEL HITO 2
+## ​🖥️​ ACTIVIDADES DEL HITO 2
 
 ***En este apartado se encuentran los Foros || Proyectos || Laboratorios del Hito 2 por separado.***
 
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2/Foros/FORO1"> Foro 1 ☞   Manejo del modelo entidad relacion [SQL] 💻 </A>**
-<p> **<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2/Laboratorios/LAB1"> Laboratorio 1 ☞ Creacion de usuarios en SQL [Video y Pdf] 🎬​📙​</A>**
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Manejo%20del%20Modelo%20entidad%20relacion%20ER..docx"> Foro 1 - Manejo del modelo entidad relacion [SQL] 💻 </A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Tarea%20H2..pdf"> TAREA H2 [Video y Pdf] 🎬​📙​</A>**
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2/ExamenH2">Examen Hito 2 ☞ Examen realizado del Hito 2 [SQL] 💻</A>**
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Tarea%20H2.pptx">TAREA H2 [SQL POWERPOINT] 💻</A>**
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2/DefensaH2/DefensaFinalH2">Defensa Final Hito 2 ☞Defensa Realizadadel Hito 2 [PDF, Video,Pptx] ​📙​🎬 🎞️​</A>**
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/video.txt">Defensa Final Hito 2  [Video] ​​🎬 🎞️​</A>**
 </p>
 
 
-## (っ▀¯▀)つ 🗂️​ HITO 3 🗂️​
+## 🗂️​ HITO 3 🗂️​
 
 **Repositorio Completo del Hito 3**
 <A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito3"> **(☞ﾟヮﾟ)☞ REPOSITORIO COMPLETO DEL HITO 3 🗂️​**  </A>
 
-## ​💻​​ APARTADOS DEL REPOSITORIO DEL HITO 3
+## ​💻​​ ACTIVIDADES DEL HITO 3
 
-***En este apartado se encuentran los Laboratorios || Proyectos del Hito 3 por separado.***
+***En este apartado se encuentran las actividades del Hito 3 por separado.***
 
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito3/Labs/Lab1"> Laboratorio 1 ☞   Laboratorio de clase 1 [SQL] 💻 </A>**
-<p> **<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito3/Labs/Lab2"> Laboratorio 2 ☞ Laboratorio de clase 2 (Uso de Inner Join) [Txt] 📄​ </A>**
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%203/TAREA%20H3.pdf"> DEFENSA H3 - DOCUMENTO  [PDF] 💻 </A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%203/TAREA%20H3.pptx"> DEFENSA H3 - DOCUMENTO  [POWERPOINT] 👨‍💻 </A>**
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito3/Labs/Lab3">Laboratorio 3 ☞ Laboratorio de clase 3 [SQL] 💻</A>**
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%203/VIDEO.txt"> DEFENSA H3 - VIDEO 💻</A>**
 
-**<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_2/DefensaH2/DefensaFinalH2">Examen Hito 3 ☞ Examen del Hito 3 [SQL] 💻</A>**
-</p>
 
-## (▀-▀) 🗂️​ HITO 4 🗂️ (▀-▀)​
+##  🗂️​ HITO 4 🗂️ 
 
 **Repositorio Completo del Hito 4**
 <A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_4/Laboratorios"> **(☞ﾟヮﾟ)☞ REPOSITORIO COMPLETO DEL HITO 4 🤖​**  </A>
 
-## ​💻​​ APARTADOS DEL REPOSITORIO DEL HITO 4 🤖
+## ​💻​​ ACTIVIDADES DEL HITO 4 🤖
 
-***En este apartado se encuentran los Laboratorios por separado.***
+***En este apartado se encuentran los actividades por separado.***
 
 
 **<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/Hito_4/Laboratorios/LABORATORIO_1"> Laboratorio 1 ☞   Laboratorio de clase 1 (Uso de Funciones) [SQL] 💻 </A>**
