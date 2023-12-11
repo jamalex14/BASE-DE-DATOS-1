@@ -73,14 +73,14 @@
 
 ## 
 <p align="center">
-    <img img src="https://imgs.search.brave.com/SS74EvdWVeUy1EOrhYNKZCWkQfaBhn47fKMtZAbNHmY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tLzEvdHlwZS1h/d2F5LW51bWVyby1k/b3MuanBnP2F1dG89/Zm9ybWF0JmZpdD1j/cm9wJnE9ODAmdz0x/MDAwJml4bGliPXJi/LTQuMC4zJml4aWQ9/TTN3eE1qQTNmREI4/TUh4elpXRnlZMmg4/TVRWOGZHMWhiaVV5/TUhkdmNtdHBibWNs/TWpCdmJpVXlNR052/YlhCMWRHVnlmR1Z1/ZkRCOGZEQjhmSHd3" width="450">
+    <img img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F596023331927115577%2F&psig=AOvVaw0p0QYBmi1amge0o78SnYe6&ust=1702411935615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj2_e6YiIMDFQAAAAAdAAAAABAD" width="450">
 	
 </p>
 
 
 ## 💻 Realizado por (▀-▀)
 
-**J. Alex Q. Valencia**
+**Jamil Alex Quispe Valencia**
 - Github: [@jamalex14](https://github.com/jamalex14).
 
 ## 📝 License
