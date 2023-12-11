@@ -5,7 +5,7 @@
 
 **Repositorio Completo del Hito 1**
 
-<A href="https://github.com/edssonivver/BASE-DE-DATOS-1/tree/main/hito_1"> **(☞ﾟヮﾟ)☞ REPOSITORIOS DEL HITO 1**  </A>
+<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/HITO%201"> **(☞ﾟヮﾟ)☞ REPOSITORIOS DEL HITO 1**  </A>
 
 
 ## 🚀 APARTADOS DEL REPOSITORIO DEL HITO 1
