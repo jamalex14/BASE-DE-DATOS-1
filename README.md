@@ -73,7 +73,7 @@
 
 ## 
 <p align="center">
-    <img img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
+    <img img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Filustracion-dibujos-animados-hombre-que-trabaja-computadora-portatil_54231761.htm&psig=AOvVaw0p0QYBmi1amge0o78SnYe6&ust=1702411935615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj2_e6YiIMDFQAAAAAdAAAAABAZ" width="450">
 	
 </p>
 
