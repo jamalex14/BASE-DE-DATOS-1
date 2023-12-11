@@ -31,7 +31,7 @@
 
 
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Manejo%20del%20Modelo%20entidad%20relacion%20ER..docx"> Foro 1 - Manejo del modelo entidad relacion [SQL] 💻 </A>**
-<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Tarea%20H2..pdf"> DEFENSA H2[Video y Pdf] 🎬​📙​</A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Tarea%20H2..pdf"> DEFENSA H2[PDF] 🎬​📙​</A>**
 
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%202/Tarea%20H2.pptx">DEFENSA H2 [SQL POWERPOINT] 💻</A>**
 
@@ -73,7 +73,7 @@
 
 ## 
 <p align="center">
-    <img img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F596023331927115577%2F&psig=AOvVaw0p0QYBmi1amge0o78SnYe6&ust=1702411935615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj2_e6YiIMDFQAAAAAdAAAAABAD" width="450">
+    <img img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7036618-macho-trabajando-en-portatil-con-gato-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-icono-concepto-aislado-premium-vector-plano-estilo-de-dibujos-animados&psig=AOvVaw0p0QYBmi1amge0o78SnYe6&ust=1702411935615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj2_e6YiIMDFQAAAAAdAAAAABAR" width="450">
 	
 </p>
 
