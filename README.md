@@ -87,11 +87,11 @@
 <p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/Modelado_de_clases.drawio"> Modelado_de_clases.drawio 👨‍💻 ​ **</A>
 
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/DER-Agencia_de_Muebles.drawio"> DER-Agencia_de_Muebles.drawio 💻 </A>**
-<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/Modelado_de_clases.drawio"> Modelado_de_clases.drawio 👨‍💻 ​ **</A>
+<p> <A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/Modelado_de_clases.drawio"> Modelado_de_clases.drawio 👨‍💻 ​ </A>
 
 
-**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/CODIGO%20SQL.sql"> CODIGO EN SQL DE LA AGENCIA DE VIAJES 💻 </A>**
-<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/CODIGO_BASE_DE_DATOS_SQL_AGENCIA%20DE%20MUEBLES.txt"> CODIGO SQL DE LA AGENCIA DE MUEBLES [TXT] 👨‍💻 ​ **</A>
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/CODIGO%20SQL.sql"> CODIGO EN SQL DE LA AGENCIA DE muebles 💻 </A>**
+<p> <A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/CODIGO_BASE_DE_DATOS_SQL_AGENCIA%20DE%20MUEBLES.txt"> CODIGO SQL DE LA AGENCIA DE MUEBLES [TXT] 👨‍💻 ​ </A>
 
 	
 ## 
