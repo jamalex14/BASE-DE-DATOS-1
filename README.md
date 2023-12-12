@@ -70,14 +70,14 @@
 
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/HITO%204/Video%20(1).txt"> DEFENSA H4 - VIDEO 💻📙​🎬 🎞️​ ​ **</A>
 
-##  🗂️​ HITO 5 🗂️ 
+##  🗂️​ HITO 5 👨‍💼 
 
 **Repositorio Completo del Hito 4**
 <A href="https://github.com/jamalex14/BASE-DE-DATOS-1/tree/main/PROYECTO%20FINAL%20HITO%205"> ** REPOSITORIO COMPLETO DEL HITO 5 🤖​**  </A>
 
-## ​💻​​ ACTIVIDADES DEL HITO 5 🤖
+## ​💻​​ PROYECTO FINAL DEL HITO 5 📊
 
-***En este apartado se encuentran los actividades por separado.***
+***Aqui encontraremos los archidos y documentos parte del proyecto final del H5.***
 
 
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/FINAL%20H5.pdf"> DEFENSA H5 - DOCUMENTO  [PDF] 💻 </A>**
@@ -86,6 +86,14 @@
 **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/DER-Agencia_de_Muebles.drawio"> DER-Agencia_de_Muebles.drawio 💻 </A>**
 <p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/Modelado_de_clases.drawio"> Modelado_de_clases.drawio 👨‍💻 ​ **</A>
 
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/DER-Agencia_de_Muebles.drawio"> DER-Agencia_de_Muebles.drawio 💻 </A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/Modelado_de_clases.drawio"> Modelado_de_clases.drawio 👨‍💻 ​ **</A>
+
+
+**<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/CODIGO%20SQL.sql"> CODIGO EN SQL DE LA AGENCIA DE VIAJES 💻 </A>**
+<p> **<A href="https://github.com/jamalex14/BASE-DE-DATOS-1/blob/main/PROYECTO%20FINAL%20HITO%205/CODIGO_BASE_DE_DATOS_SQL_AGENCIA%20DE%20MUEBLES.txt"> CODIGO SQL DE LA AGENCIA DE MUEBLES [TXT] 👨‍💻 ​ **</A>
+
+	
 ## 
 <p align="center">
     <img img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
